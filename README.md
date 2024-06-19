@@ -4,7 +4,7 @@
 
 Name: Kevin Otieno
 
-email: kevikefa6@gmail.com
+email: kevinkefa6@gmail.com
 
 Setup Development Environment
 
